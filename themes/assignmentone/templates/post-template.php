@@ -1,6 +1,6 @@
 <?php
 /** 
- * Template Name: Single Post Template
+ * Template Name: Post Template
  * Template Post Type: post
 */
 get_header();
